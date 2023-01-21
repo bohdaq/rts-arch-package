@@ -1,7 +1,7 @@
 # Maintainer: Bohdan Tsap <bohdan.tsap@tutanota.com>
 pkgname=rust-tls-server
 binname=rts
-pkgver=8.0.6
+pkgver=9.0.0
 pkgrel=1
 epoch=
 pkgdesc="Web server for handling HTTPS using TLS"
@@ -21,7 +21,7 @@ options=()
 install=
 changelog=
 source=("$pkgname-$pkgver.tar.gz::https://github.com/bohdaq/$pkgname/archive/$pkgver.tar.gz")
-sha256sums=('14e1a6de1c3fc43dd6683107e98590a6df18333181dc272454dd9ca0404317c9')
+sha256sums=('1c22acf96400a9aa85fcd3564b654de95d48b6e8124a5f89806b4dee7ea2a0a9')
 noextract=()
 validpgpkeys=()
 
